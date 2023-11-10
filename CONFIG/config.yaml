@@ -1,0 +1,11 @@
+path: ../DATA/annotated-images 
+#\\wsl.localhost\Ubuntu-22.04\home\ubuntu\Proyectos\obj_detection\DeteccionHuecos\CONFIG
+train: images/train
+val: images/val
+test: #images/test
+
+# Classes
+nc: 1
+
+names:
+  0: pothole
